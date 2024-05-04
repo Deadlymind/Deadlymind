@@ -18,11 +18,11 @@
 
 ### About Me
 
-- 👨‍💻 All of my projects are available at [Potato Academy](https://potato-academy.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://deadlymind.vercel.app/projects)
 
 - 💬 Ask me about anything; I'll reply faster than ChatGPT, !True
 
-- 📫 How to reach me: Check my social media accounts below
+- 📫 How to reach me: oussamaayari2014@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,14 +30,8 @@
   <a href="https://twitter.com/deadlymind_tn" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/deadlymind_tn" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/ayari-oussama-9871a4189/" target="blank">
+  <a href="https://www.linkedin.com/in/deadlymind/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayari-oussama-9871a4189/" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/Deadlymind.x/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/deadlymind.x/" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/oussama.deadly.x/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oussama.deadly.x/" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@DeadlyMindTv" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@deadlymindtv" height="30" width="40" />
